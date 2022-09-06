@@ -1,6 +1,9 @@
 # android-nova-catppuccin
 A catppuccin-coloed Nova and KWGT .dotfiles repo
 
+![Screenshot_2022-09-06-08-47-32-20_3822ac0e29cfec8970059bb21d01f05e](https://user-images.githubusercontent.com/38812603/188569376-21a432c1-3c66-4e59-b617-a58f6489aaa9.jpg)
+
+
 1. You have to download https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en&gl=US
 2. Get the Pro-Key https://play.google.com/store/apps/details?id=org.kustom.widget.pro&hl=en&gl=US
 3. Install https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en&gl=US and make it your default system launcher via its settings
