@@ -1,7 +1,8 @@
 # android-nova-catppuccin
 A catppuccin-coloed Nova and KWGT .dotfiles repo
 
-![Screenshot_2022-09-06-08-47-32-20_3822ac0e29cfec8970059bb21d01f05e](https://user-images.githubusercontent.com/38812603/188569376-21a432c1-3c66-4e59-b617-a58f6489aaa9.jpg)
+![Screenshot_2022-09-06-09-10-41-98_3822ac0e29cfec8970059bb21d01f05e](https://user-images.githubusercontent.com/38812603/188569761-973a9bae-8cfc-43d0-b6fb-9e305470ec81.jpg)
+
 
 
 1. You have to download https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en&gl=US
